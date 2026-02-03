@@ -19,7 +19,7 @@ public class Removedup {
         }
         return idx;
 
-
+        
     }
     
     public static void main(String[] args) {
